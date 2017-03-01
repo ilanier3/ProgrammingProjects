@@ -1,0 +1,11 @@
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\bin\Debug\333_WilcherI_Ch03Ex01.exe
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\bin\Debug\333_WilcherI_Ch03Ex01.pdb
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\_333_WilcherI_Ch03Ex01.Form1.resources
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\_333_WilcherI_Ch03Ex01.Properties.Resources.resources
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\333_WilcherI_Ch03Ex01.exe
+J:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\333_WilcherI_Ch03Ex01.pdb
+I:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\333_WilcherI_Ch03Ex01.exe
+I:\School\CIS 333\Projects\333_WilcherI_Ch03Ex01\333_WilcherI_Ch03Ex01\obj\x86\Debug\333_WilcherI_Ch03Ex01.pdb

@@ -1,0 +1,9 @@
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\_333_WilcherI_0401.Properties.Resources.resources
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\_333_WilcherI_0401.Form1.resources
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\bin\Debug\333_WilcherI_0401.exe
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\bin\Debug\333_WilcherI_0401.pdb
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\333_WilcherI_0401.exe
+J:\School\CIS 333\Projects\333_WilcherI_0401\333_WilcherI_0401\obj\x86\Debug\333_WilcherI_0401.pdb

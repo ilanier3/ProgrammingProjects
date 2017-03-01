@@ -1,0 +1,9 @@
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\bin\Debug\333_WilcherI_Lab03.exe
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\bin\Debug\333_WilcherI_Lab03.pdb
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\_333_WilcherI_Lab03.Form1.resources
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\_333_WilcherI_Lab03.Properties.Resources.resources
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\333_WilcherI_Lab03.exe
+c:\users\issac\documents\visual studio 2010\Projects\333_WilcherI_Lab03\333_WilcherI_Lab03\obj\x86\Debug\333_WilcherI_Lab03.pdb

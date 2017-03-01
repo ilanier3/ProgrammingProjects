@@ -1,0 +1,9 @@
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\bin\Debug\Fuel Economy with Try Parse Tutorial 4-4.exe
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\bin\Debug\Fuel Economy with Try Parse Tutorial 4-4.pdb
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\Fuel_Economy_with_Try_Parse_Tutorial_4_4.Form1.resources
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\Fuel_Economy_with_Try_Parse_Tutorial_4_4.Properties.Resources.resources
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\Fuel Economy with Try Parse Tutorial 4-4.exe
+J:\School\CIS 333\Projects\Fuel Economy with Try Parse Tutorial 4-4\Fuel Economy with Try Parse Tutorial 4-4\obj\x86\Debug\Fuel Economy with Try Parse Tutorial 4-4.pdb
